@@ -30,6 +30,14 @@ export function Projects() {
       github: "https://github.com/sbfrancisco/portfolio",
       demo: "#",
     },
+    {
+      title: "Facturacion",
+      description: "Sistema de facturacion soporta varios emisores, permite registrar productos/servicios, almacena facturas, y que los clientes accedan a sus facturas",
+      image: "/billing.png",
+      technologies: ["React", "Vite", "TypeScript", "Tailwind CSS"],
+      github: "https://github.com/sbfrancisco/billing",
+      demo: "#",
+    },
   ]
 
   return (
