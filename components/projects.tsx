@@ -38,6 +38,15 @@ export function Projects() {
       github: "https://github.com/sbfrancisco/billing",
       demo: "#",
     },
+    {
+      title: "Campus transport",
+      description:
+        "Aplicación que conecta conductores y pasajeros dentro de una ciudad, optimizando los recorridos mediante un algoritmo de Reinforcement Learning que determina qué pasajeros conviene recoger según su ubicación y ruta.",
+      image: "/campus_transport.png",
+      technologies: ["React", "Phyton", "Tailwind CSS", "Vite"],
+      github: "https://github.com/Uni-Mov/rl-campus-transport",
+      demo: "#",
+    },
   ]
 
   return (
